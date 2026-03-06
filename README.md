@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Immanu3lD
 - 👀 I’m interested in Coding!
-- 🌱 I’m currently learning C!
+- 🌱 I’m currently learning ...!
 - 💞️ I’m looking to collaborate on ...
 - 📫 immanuelrobinson08@gmail.com to reach me!
 - 😄 Pronouns: he/him
